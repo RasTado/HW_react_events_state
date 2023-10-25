@@ -1,0 +1,25 @@
+.shopCardName {
+  position: relative;
+  z-index: 1;
+  font-size: 24px;
+  color: black;
+}
+
+.shopCardColor {
+  position: relative;
+  z-index: 1;
+  color: rgb(55, 55, 55);
+}
+
+.shopCardImg {
+  position: relative;
+  z-index: 0;
+  margin-top: -100px;
+  width: 300px;
+  height: 300px;
+}
+
+.shopCardPrice {
+  font-size: 18px;
+  color: black;
+}

@@ -1,0 +1,23 @@
+.tolbar {
+  display: flex;
+  justify-content: center;
+}
+
+.tolbarCsButton {
+  margin: 3px;
+  background-color: rgb(237, 240, 243);
+  color: black;
+}
+
+.tolbarCsButton:hover {
+  background-color: rgb(179, 177, 177);
+}
+
+.tolbarCsButton:active {
+  background-color: rgb(129, 127, 127);
+}
+
+.selected {
+  background-color: rgb(66, 67, 68);
+  color: rgb(255, 255, 255);
+}

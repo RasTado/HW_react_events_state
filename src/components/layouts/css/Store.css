@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.iconSwitchCt {
+  text-align: right;
+}
+.material-icons {
+  font-size: 36px;
+}
+
+.material-icons:hover {
+  border: 1px solid white;
+}
+
+.material-icons:active {
+  background-color: beige;
+}

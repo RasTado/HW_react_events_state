@@ -1,0 +1,16 @@
+.cardView {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+  justify-content: center;
+}
+
+.ShopCardC {
+  padding: 5px;
+}
+
+.shopCardPrB {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
